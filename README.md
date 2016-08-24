@@ -24,6 +24,74 @@ Address data has been changed from a specific address, where applicable, and lis
 The officers of the Berkeley Police Department are prohibited from biased based policing, which is defined as any police-initiated action that relies on the race, ethnicity, or national origin rather than the behavior of an individual or information that leads the police to a particular individual who has been identified as being engaged in criminal activity.
 
 
+## WTF is the dispositions header
+
+From the Socrata data:
+
+Ordered in the following sequence: 
+
+## 1st Character = Race
+
+- A (Asian) 
+- B (Black) 
+- H (Hispanic) 
+- O (Other) 
+- W (White) 
+
+
+## 2nd Character = Gender
+
+- F (Female) 
+- M (Male) 
+
+
+
+
+## 3rd Character = Age Range
+
+- 1 (Less than 18) 
+- 2 (18-29) 
+- 3 (30-39) 
+- 4 (Greater than 40) 
+
+
+## 4th Character = Reason
+
+- I (Investigation) 
+- T (Traffic) 
+- R (Reasonable Suspicion) 
+- K (Probation/Parole) 
+- W (Wanted) 
+
+## 5th Character = Enforcement
+
+- A (Arrest) 
+- C (Citation) 
+- O (Other) 
+- W (Warning) 
+
+## 6th Character =Car Search
+
+- S (Search)
+- N (No Search)
+
+
+## Additional dispositions
+
+- P - Primary case report
+- M - MDT narrative only
+- AR - Arrest report only (no case report submitted)
+- IN - Incident report
+- FC - Field Card
+- CO - Collision investigation report
+- MH - Emergency Psychiatric Evaluation TOW
+- TOW - Impounded vehicle 0 or 00000
+- 0 or 00000 - Officer made a stop of more than five persons 
+
+
+
+
+
 # Stories
 
 https://ww2.kqed.org/news/2015/10/10/berkeley-pd-releases-pedestrian-stop-data-after-charges-of-racial-profiling/

@@ -17,6 +17,10 @@ http://www.ci.berkeley.ca.us/Police/Home/Berkeley_PD_s_Stop_Data_Now_on_City_s_O
 > This data contains information on police contacts between January 26, 2015 through the present. The Berkeley Police Department will be updating this information approximately every 60 days.
 
 # From the data page
+https://data.cityofberkeley.info/Public-Safety/Berkeley-PD-Stop-Data/6e9j-pj9p/about
+
+https://data.cityofberkeley.info/Public-Safety/Stop-Data/6e9j-pj9p
+
 
 Berkeley PD - Stop Data
 This data was extracted from the Department’s Public Safety Server and covers the data beginning January 26, 2015. On January 26, 2015 the department began collecting data pursuant to General Order B-4 (issued December 31, 2014). Under that order, officers were required to provide certain data after making all vehicle detentions (including bicycles) and pedestrian detentions (up to five persons). This data set lists stops by police in the categories of traffic, suspicious vehicle, pedestrian and bicycle stops. Incident number, date and time, location and disposition codes are also listed in this data.

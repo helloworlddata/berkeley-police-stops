@@ -54,19 +54,19 @@
 
 ## Additional dispositions
 
-  - name: additional_dispositions
-    position: 6
-    enums:
-      P: Primary case report
-      M: MDT narrative only
-      AR: Arrest report only (no case report submitted)
-      IN: Incident report
-      FC: Field Card
-      CO: Collision investigation report
-      MH: Emergency Psychiatric Evaluation TOW
-      TOW: Impounded vehicle 0 or 00000
-      '0' : Officer made a stop of more than five persons
-      '00000' : Officer made a stop of more than five persons
+- name: additional_dispositions
+  position: 6
+  enums:
+    P: Primary case report
+    M: MDT narrative only
+    AR: Arrest report only (no case report submitted)
+    IN: Incident report
+    FC: Field Card
+    CO: Collision investigation report
+    MH: Emergency Psychiatric Evaluation TOW
+    TOW: Impounded vehicle 0 or 00000
+    '0' : Officer made a stop of more than five persons
+    '00000' : Officer made a stop of more than five persons
 
 
 

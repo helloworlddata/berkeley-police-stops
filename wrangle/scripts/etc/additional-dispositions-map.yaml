@@ -1,0 +1,28 @@
+
+'P' :
+  value: primary_case_report
+  description: Primary case report
+'M' :
+  value: mdt_narrative_only
+  description: MDT narrative only
+'AR' :
+  value: arrest_report_only
+  description: Arrest report only (no case report submitted)
+'IN' :
+  value: incident_report
+'FC' :
+  value: field_card
+'CO' :
+  value: collision_report
+  description: Collision investigation report
+'MH' :
+  value: emergency_psychiatric_evaluation
+'TOW' :
+  value: impounded_vehicle
+'0' :
+  value: more_than_five_persons_stopped
+  description: Officer made a stop of more than five persons
+'000000' :
+  value: more_than_five_persons_stopped
+  description: Officer made a stop of more than five persons
+

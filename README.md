@@ -1,6 +1,17 @@
 # Berkeley Police Department Stops
 
 
+# Todos
+
+
+- Have derive_dispositions return full data object
+- Write script that calls derive_disposition()
+
+
+
+# Links
+
+
 https://data.cityofberkeley.info/Public-Safety/Berkeley-PD-Stop-Data/6e9j-pj9p
 
 https://data.cityofberkeley.info/api/views/6e9j-pj9p/rows.csv?accessType=DOWNLOAD

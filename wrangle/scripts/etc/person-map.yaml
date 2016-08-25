@@ -1,0 +1,73 @@
+- name: race
+  position: 0
+  enums:
+    'A' :
+      value: asian
+    'B' :
+      value: black
+    'H' :
+      value: hispanic
+    'O' :
+      value: other
+    'W' :
+      value: white
+
+- name: gender
+  position: 1
+  enums:
+    'F' :
+      value: F
+    'M' :
+      value: M
+
+
+- name: age_range
+  position: 2
+  enums:
+    '1' :
+      value: 'under_18'
+    '2' :
+      value: '18_39'
+    '3' :
+      value: '30_39'
+    '4' :
+      value: '40_and_over'
+
+- name: reason
+  position: 3
+  enums:
+    'I' :
+      value: investigation
+    'T' :
+      value: traffic
+    'R' :
+      value: reasonable_suspicion
+    'K' :
+      value: probation_parole
+    'W' :
+      value: wanted
+
+- name: enforcement
+  position: 4
+  enums:
+    'A' :
+      value: arrest
+    'C' :
+      value: citation
+    'O' :
+      value: other
+    'W' :
+      value: warning
+
+
+- name: car_searched
+  position: 5
+  enums:
+    'S' :
+      value: Y
+    'N' :
+      value: N
+
+
+
+
